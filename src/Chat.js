@@ -1,15 +1,13 @@
-import React from 'react'
-import './Chat.css'
-import {
-    Avatar,
-    IconButton
-} from "@material-ui/core";
+import React from "react";
+import "./Chat.css";
+import { Avatar, IconButton } from "@material-ui/core";
 import {
     AttachFile,
     InsertEmoticon,
     MoreVert,
-    SearchOutlined
+    SearchOutlined,
 } from "@material-ui/icons";
+
 
 function Chat() {
    return(
