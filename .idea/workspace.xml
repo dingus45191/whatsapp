@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="105f93c4-a83f-4e78-8db7-f0281917dc7e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.eslintcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/whatsapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Chat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Chat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Sidebar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Sidebar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/SidebarChat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/SidebarChat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/wall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-server/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-server/MessagesDB.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/whatsapp-server/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/whatsapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/whatsapp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sidebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sidebar.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SidebarChat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SidebarChat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wall.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/wall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
-    </list>
+    <list default="true" id="105f93c4-a83f-4e78-8db7-f0281917dc7e" name="Default Changelist" comment="started working on server" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +15,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/whatsapp-server" />
   </component>
   <component name="ProjectId" id="1mn8NLZv9aDwIulFWgjB5g5TUec" />
@@ -113,8 +52,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610117960624</updated>
-      <workItem from="1610117965170" duration="4116000" />
+      <workItem from="1610117965170" duration="4186000" />
     </task>
+    <task id="LOCAL-00001" summary="started working on server">
+      <created>1610122155928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610122155928</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,5 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="started working on server" />
+    <option name="LAST_COMMIT_MESSAGE" value="started working on server" />
   </component>
 </project>
