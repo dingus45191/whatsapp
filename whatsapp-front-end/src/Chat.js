@@ -3,7 +3,7 @@ import "./Chat.css";
 import { Avatar, IconButton } from "@material-ui/core";
 import {
     AttachFile,
-    InsertEmoticon,
+    InsertEmoticon, Mic,
     MoreVert,
     SearchOutlined,
 } from "@material-ui/icons";
@@ -44,8 +44,9 @@ function Chat() {
            </div>{" "}
            <div className="chat__footer">
                <InsertEmoticon />
-               <form action="" method="post">
+               <form>
                    <input type="text" placeholder={"Type a message"} />{" "}
+                   <Mic/>
                    <button type="submit">Send a message </button>
                </form>
            </div>

@@ -1,14 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="063ce27c-cd8c-45e1-b894-3aa4e963cd3c" name="Default Changelist" comment="started styling made progress">
-      <change afterPath="$PROJECT_DIR$/src/SidebarChat.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SidebarChat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chat.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chat.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sidebar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sidebar.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firebase.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
+    <list default="true" id="105f93c4-a83f-4e78-8db7-f0281917dc7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/whatsapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/SidebarChat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/SidebarChat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/firebase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/wall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/src/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-front-end/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-server/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-server/MessagesDB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-server/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-server/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whatsapp-server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/whatsapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/whatsapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sidebar.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SidebarChat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SidebarChat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,87 +78,43 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/whatsapp-server" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
+  <component name="ProjectId" id="1mn8NLZv9aDwIulFWgjB5g5TUec" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectId" id="1lgexh00WpxMXJWsPHlRVdF5DdF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="consentGiven" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\hp\whatsapp\src\" />
-    </key>
-  </component>
-  <component name="RunManager" selected="npm.npm start">
-    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
-    <configuration name="npm start" type="js.build_tools.npm">
-      <package-json value="$PROJECT_DIR$/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="063ce27c-cd8c-45e1-b894-3aa4e963cd3c" name="Default Changelist" comment="" />
-      <created>1608023409703</created>
+      <changelist id="105f93c4-a83f-4e78-8db7-f0281917dc7e" name="Default Changelist" comment="" />
+      <created>1610117960624</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608023409703</updated>
-      <workItem from="1608023411039" duration="2315000" />
-      <workItem from="1608377274326" duration="9000" />
-      <workItem from="1609776579131" duration="749000" />
-      <workItem from="1609849246370" duration="2200000" />
-      <workItem from="1609947705161" duration="4458000" />
-      <workItem from="1610028659806" duration="7639000" />
-      <workItem from="1610036633178" duration="1087000" />
+      <updated>1610117960624</updated>
+      <workItem from="1610117965170" duration="4116000" />
     </task>
-    <task id="LOCAL-00001" summary="started styling made progress">
-      <created>1609953804629</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1609953804630</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,10 +130,8 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="started styling made progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="started styling made progress" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
